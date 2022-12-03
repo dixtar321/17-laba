@@ -1,0 +1,47 @@
+﻿  Source.cpp
+C:\Users\alex_\OneDrive\Рабочий стол\Задания\Информатика\семак 3\Лаба 17\Header.h(89,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alex_\OneDrive\Рабочий стол\Задания\Информатика\семак 3\Лаба 17\Header.h(79): message : во время компиляции функции-члена класс шаблон "void Set<char>::erase(const T &)"
+          with
+          [
+              T=char
+          ]
+C:\Users\alex_\OneDrive\Рабочий стол\Задания\Информатика\семак 3\Лаба 17\Source.cpp(99): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Set<char>::erase(const T &)"
+          with
+          [
+              T=char
+          ]
+C:\Users\alex_\OneDrive\Рабочий стол\Задания\Информатика\семак 3\Лаба 17\Source.cpp(88): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Set<char>"
+C:\Users\alex_\OneDrive\Рабочий стол\Задания\Информатика\семак 3\Лаба 17\Header.h(140,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alex_\OneDrive\Рабочий стол\Задания\Информатика\семак 3\Лаба 17\Header.h(137): message : во время компиляции функции-члена класс шаблон "void Set<Point>::clear(void)"
+C:\Users\alex_\OneDrive\Рабочий стол\Задания\Информатика\семак 3\Лаба 17\Source.cpp(52): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Set<Point>::clear(void)"
+C:\Users\alex_\OneDrive\Рабочий стол\Задания\Информатика\семак 3\Лаба 17\Source.cpp(39): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Set<Point>"
+C:\Users\alex_\OneDrive\Рабочий стол\Задания\Информатика\семак 3\Лаба 17\Header.h(167,16): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alex_\OneDrive\Рабочий стол\Задания\Информатика\семак 3\Лаба 17\Header.h(165): message : во время компиляции функции-члена класс шаблон "void Set<char>::bubble_sort(void)"
+C:\Users\alex_\OneDrive\Рабочий стол\Задания\Информатика\семак 3\Лаба 17\Header.h(66): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Set<char>::bubble_sort(void)"
+C:\Users\alex_\OneDrive\Рабочий стол\Задания\Информатика\семак 3\Лаба 17\Header.h(168,17): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alex_\OneDrive\Рабочий стол\Задания\Информатика\семак 3\Лаба 17\Header.h(112,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alex_\OneDrive\Рабочий стол\Задания\Информатика\семак 3\Лаба 17\Header.h(111): message : во время компиляции функции-члена класс шаблон "bool Set<char>::find_for_func(const T &)"
+          with
+          [
+              T=char
+          ]
+C:\Users\alex_\OneDrive\Рабочий стол\Задания\Информатика\семак 3\Лаба 17\Header.h(85): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool Set<char>::find_for_func(const T &)"
+          with
+          [
+              T=char
+          ]
+C:\Users\alex_\OneDrive\Рабочий стол\Задания\Информатика\семак 3\Лаба 17\Header.h(73,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alex_\OneDrive\Рабочий стол\Задания\Информатика\семак 3\Лаба 17\Header.h(72): message : во время компиляции функции-члена класс шаблон "int Set<char>::find_element(const T &)"
+          with
+          [
+              T=char
+          ]
+C:\Users\alex_\OneDrive\Рабочий стол\Задания\Информатика\семак 3\Лаба 17\Header.h(88): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Set<char>::find_element(const T &)"
+          with
+          [
+              T=char
+          ]
+C:\Users\alex_\OneDrive\Рабочий стол\Задания\Информатика\семак 3\Лаба 17\Header.h(77): warning C4715: Set<Point>::find_element: значение возвращается не при всех путях выполнения
+C:\Users\alex_\OneDrive\Рабочий стол\Задания\Информатика\семак 3\Лаба 17\Header.h(77): warning C4715: Set<int>::find_element: значение возвращается не при всех путях выполнения
+C:\Users\alex_\OneDrive\Рабочий стол\Задания\Информатика\семак 3\Лаба 17\Header.h(77): warning C4715: Set<char>::find_element: значение возвращается не при всех путях выполнения
+  Лаба 17.vcxproj -> C:\Users\alex_\OneDrive\Рабочий стол\Задания\Информатика\семак 3\Лаба 17\Debug\Лаба 17.exe
